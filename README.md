@@ -1,4 +1,4 @@
-me<h1 align="center">👋 I'm Garima Singh</h1>
+me<h1 align="center">👋 Garima here, committed to flawless software!"</h1>
 <h3 align="center">👨‍💻 Software Tester on a Mission for Bug-Free Product!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garimas7&label=Profile%20views&color=0e75b6&style=flat" alt="garimas7" /> </p>
