@@ -1,5 +1,5 @@
-<h1 align="center">👋 I'm Garima Singh</h1>
-<h3 align="center">A passionate Software tester from India</h3>
+me<h1 align="center">👋 I'm Garima Singh</h1>
+<h3 align="center">Welcome to a passionate Software tester's Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garimas7&label=Profile%20views&color=0e75b6&style=flat" alt="garimas7" /> </p>
 
