@@ -38,12 +38,7 @@ Driven by a passion for perfection, I am on a journey to master the art of softw
 - **LinkedIn**: [Your LinkedIn Profile](#)  
 - **GitHub**: [Your GitHub Profile](#)  
 - **Email**: [Your Email](mailto:#)  
-## Hi there 👋
 
-<!--
-**garimas7/garimas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
