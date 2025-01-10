@@ -4,7 +4,7 @@
 # Professional Summary
 Technical SDET with expertise in automation, mobile, API, manual testing, and performance testing. Proficient in test automation frameworks, CI/CD pipelines, scripting, performance optimization, cloud testing, and ensuring robust software quality across diverse platforms.
 
-# Technical Skills
+# SDET Journey
 - **Programming Languages**: JavaScript, Java  
 - **Testing Tools**: Burp Suite, JMeter, Cypress, Selenium WebDriver, Rest Assured, Postman, SoapUI, Appium  
 - **Test Automation**: TestNG, Cucumber, JUnit  
