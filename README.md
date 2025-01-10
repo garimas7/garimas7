@@ -13,7 +13,8 @@ Technical SDET with expertise in automation, mobile, API, manual testing, and pe
 - **Agile & Scrum Methodologies**: Familiar with agile practices and collaborative workflows  
 - **Other**: GraphQL, Docker
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,jmeter,cypress,selenium,cpp,git,github,postman,py&theme=light)](https://skillicons.dev)
+# Top skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,cypress,selenium,postman,jenkins,git,github,graphql,docker&theme=light)](https://skillicons.dev)
 
 ## 🌱 Goals
 - Become proficient in advanced testing methodologies and tools.  
