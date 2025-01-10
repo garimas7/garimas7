@@ -1,10 +1,10 @@
 # <p align="center">🚀 Welcome World</p>
 ### <p align="center">An SDET on a Mission to Perfect Software Quality</p>
 
-## 🔍 Professional Summary
+# Professional Summary
 Technical SDET with expertise in automation, mobile, API, manual testing, and performance testing. Proficient in test automation frameworks, CI/CD pipelines, scripting, performance optimization, cloud testing, and ensuring robust software quality across diverse platforms.
 
-## 💻 Technical Skills
+# Technical Skills
 - **Programming Languages**: JavaScript, Java  
 - **Testing Tools**: Burp Suite, JMeter, Cypress, Selenium WebDriver, Rest Assured, Postman, SoapUI, Appium  
 - **Test Automation**: TestNG, Cucumber, JUnit  
@@ -16,7 +16,15 @@ Technical SDET with expertise in automation, mobile, API, manual testing, and pe
 # Top skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,cypress,selenium,postman,jenkins,git,github,graphql,docker&theme=light)](https://skillicons.dev)
 
-## 🌱 Goals
+# Goals
 - Become proficient in advanced testing methodologies and tools.  
 - Contribute to open-source testing projects and collaborate with professionals in the testing community.
 
+<h1 align="start">
+  Connect with me!
+</h1>
+<p align="start">
+  <a href="https://www.linkedin.com/in/garimasingh251/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
