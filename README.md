@@ -1,6 +1,5 @@
-<img src="" alt="MasterHead" width=1010, height=500, margin=20>
+<img src="/wp10992145.jpg" alt="MasterHead">
 
-# <p align="center">🚀 Welcome World</p>
 ### <p align="center">An SDET on a Mission to Perfect Software Quality</p>
 
 # Professional Summary
