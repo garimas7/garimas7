@@ -1,3 +1,5 @@
+<img src="" alt="MasterHead" width=1010, height=500, margin=20>
+
 # <p align="center">🚀 Welcome World</p>
 ### <p align="center">An SDET on a Mission to Perfect Software Quality</p>
 
@@ -16,9 +18,7 @@ Technical SDET with expertise in automation, mobile, API, manual testing, and pe
 # Top skills
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,cypress,selenium,postman,jenkins,git,github,graphql,docker&theme=light)](https://skillicons.dev)
 
-# Goals
-- Become proficient in advanced testing methodologies and tools.  
-- Contribute to open-source testing projects and collaborate with professionals in the testing community.
+<a href="https://github.com/garimas7/garimas7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimas7&layout=compact&theme=buefy&hide_border=true" width="420" /></a>
 
 <h1 align="start">
   Connect with me!
@@ -26,5 +26,8 @@ Technical SDET with expertise in automation, mobile, API, manual testing, and pe
 <p align="start">
   <a href="https://www.linkedin.com/in/garimasingh251/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:garimasingh25177@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
