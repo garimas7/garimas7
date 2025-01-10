@@ -1,4 +1,4 @@
-# <p align="center">🚀 Welcome to Garima Singh’s World</p>
+# <p align="center">🚀 Welcome World</p>
 ### <p align="center">An SDET on a Mission to Perfect Software Quality</p>
 
 ## 🔍 Professional Summary
